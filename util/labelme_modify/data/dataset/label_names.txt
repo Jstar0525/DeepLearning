@@ -1,4 +1,0 @@
-_background_
-joint
-stem
-growth_point
